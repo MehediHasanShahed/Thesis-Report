@@ -64,8 +64,9 @@ BRAC University, 2025.
 
 For further information or collaboration inquiries:
 
-* **Email:** [kazi.mahathir.rahman@g.bracu.ac.bd](mailto:kazi.mahathir.rahman@g.bracu.ac.bd) | [naveed.imteaz.nafis@g.bracu.ac.bd](mailto:naveed.imteaz.nafis@g.bracu.ac.bd) | [mohammad.al.rafi@g.bracu.ac.bd](mailto:mohammad.al.rafi@g.bracu.ac.bd) | [mehedi.hasan.shahed@g.bracu.ac.bd](mailto:mehedi.hasan.shahed@g.bracu.ac.bd) | [md.farhan.sadik@g.bracu.ac.bd](mailto:md.farhan.sadik@g.bracu.ac.bd)
-* **Institution:** Department of Computer Science and Engineering, BRAC University
+* **Email:** [mehedihasanshahed3@gmail.com](mailto:mehedihasanshahed3@gmail.com)
+* **LinkedIn:** [Mehedi Hasan Shahed](www.linkedin.com/in/mehedi-hasan-shahed-153404287)  
+* **GitHub:** [Mehedi Hasan Shahed](https://github.com/MehediHasanShahed)
 
 ---
 
