@@ -12,7 +12,7 @@ This research introduces an AI-driven system that translates spoken English into
 * **Mehedi Hasan Shahed**
 * **Md. Farhan Sadik**
 
-**Supervisor:** BRAC University, Department of Computer Science and Engineering
+**Supervisor:**  Dr. Md. Ashraful Alam, Associate Professor, Department of Computer Science and Engineering, BRAC University
 
 ## 🧠 Key Technologies
 
